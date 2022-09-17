@@ -1,0 +1,137 @@
+h1{
+   color:darkslategray;
+   font-family: Larsseit, sans-serif;
+   font-weight: 700;
+   font-size: 44px;
+   font-style: italic;
+   text-align: center;
+   text-decoration: underline;
+   text-shadow: 5px 1px 2px grey;
+   padding: 20px 20px ;
+}
+div{
+   margin: 30px 20px ;
+}
+
+h2{
+   color:lightblue;
+   font-family: Larsseit, sans-serif;
+   font-weight: 400;
+   font-size: 44px;
+   font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+   text-shadow: 2px 1px 2px grey;
+   padding: 20px 20px;
+
+}
+
+#header_legolas{
+color:darkmagenta;
+}
+
+.text_frodo{
+   color:darksalmon;
+   font-family: Lato, sans-serif;
+   font-weight: 900;
+   font-style:oblique;
+   text-align: center;
+   text-transform:lowercase;
+}
+
+
+.wrap_gendalf p{
+   color: red;
+   font-family: Lato, sans-serif;
+   font-weight: 400;
+   font-size: 26px;
+   text-align: center;
+   text-decoration: overline;
+   font-style: italic;
+   text-shadow: 2px 1px 2px grey;
+   text-transform: uppercase;
+}
+
+
+.text_fellowship{
+   color:indianred;
+   font-family: Lato, sans-serif;
+   font-weight: 700;
+   font-style: oblique;
+   text-align: left;
+   text-transform:capitalize;
+}
+
+
+
+.header_sem ~ p{
+color:gold;
+font-family: Lato, sans-serif;
+font-weight: 900;
+font-style: oblique;
+text-align: center;
+line-height: 2;
+text-indent: 30px;
+}
+.text_meri{
+   color:aquamarine;
+   font-family: Larsseit, sans-serif;
+   font-weight: 700;
+   font-style: italic;
+   text-align: right;
+   letter-spacing: 2px;
+}
+
+
+.wrap_pin > p{
+color:lime;
+font-family: Larsseit, sans-serif;
+font-weight: 900;
+text-align: center;
+word-spacing: 20px;
+}
+
+
+.text_aragorn{
+color: olive;
+font-family: Larsseit, sans-serif;
+font-weight: 900;
+text-align: center;
+word-spacing: 20px;
+text-shadow: 2px 1px 1px greenyellow;
+}
+
+
+.image_bogomyr + p{
+   color:greenyellow;
+   font-family: Larsseit, sans-serif;
+   font-weight: 900;
+   text-align: center;
+   word-spacing: 20px;
+   text-decoration: overline;
+   text-shadow: 2px 1px 1px red;
+}
+.text_gimli{
+color:palegoldenrod;
+font-family: Larsseit, sans-serif;
+font-weight: 900;
+text-align: center;
+word-spacing: 20px;
+text-decoration:double;
+text-align: right;
+}
+.text_legolas{
+color:deeppink;
+font-family: Larsseit, sans-serif;
+font-weight: 900;
+text-align: center;
+word-spacing: 20px;
+text-decoration:line-through;
+}
+
+
+.wrap_aragorn{
+   background-color:lightsalmon;
+   margin: 10px 45px 15px 45px;
+   padding: 20px 20px;
+}
